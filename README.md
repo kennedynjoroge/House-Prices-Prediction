@@ -35,5 +35,3 @@ Hass Consulting Company which is a real estate leader with over 25 years of expe
 Metric for success
 1. Model Accuracy
 2. Simplicity
-
-Alternate URL: https://nbviewer.jupyter.org/github/jupitershot/House-Prices-Prediction/blob/master/Hass_Consulting_House_Prices_Prediction.ipynb
